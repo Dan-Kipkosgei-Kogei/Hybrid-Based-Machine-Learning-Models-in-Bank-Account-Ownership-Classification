@@ -4,13 +4,9 @@ In East Africa, the financial sector has made significant progress towards finan
 ## Objectives of Study
 1. To determine key factors influencing individual bank account ownership.
 2. To compare the predictive power of hybrid-based ML models to single ML models.
-```
-import pandas as pd
-
-```
 
 
-<img width="691" height="393" alt="download" src="https://github.com/user-attachments/assets/2ca77bf4-ae8c-4ce4-8d77-c15bd7da3575" />
+
 
 
 
